@@ -1,3 +1,7 @@
+
+<img width="1680" height="1050" alt="Screenshot 2025-12-29 at 9 13 49" src="https://github.com/user-attachments/assets/1c27a849-110f-446e-8fa5-a9660b2e760c" />
+<img width="1680" height="1050" alt="Screenshot 2025-12-29 at 9 50 05" src="https://github.com/user-attachments/assets/eac85c35-2294-4147-91c0-c1a7b2d14205" />
+
 # Welcome!
 Thanks for coming! Although it's a lengthy process, nothing good comes easy. Here's how to make your browser cuter.
 
