@@ -25,6 +25,7 @@ Download the CSS file in the Releases/Files section
 3. Click on 'vivaldi.css'
 4. It will download on your computer
 5. Make a folder, and just place the file in there.
+> Also, download the fonts needed in the files (fonts_of_dec.zip)
 
 ## 4. Make the browser use your file
 1. Go to vivaldi://flags and search for 'Allow CSS modifications'
