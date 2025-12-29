@@ -31,7 +31,7 @@ Download the CSS file in the Releases/Files section
 6. Click on 'Select Folder...'
 7. Select the folder in which the vivaldi.css file is
 
-> [!info] The colors will change depending on your theme.
+> The colors will change depending on your theme.
 > Go to vivaldi:settings/themes/ and check out the themes you can get/make! The hearts and everything will be there, but if you specifically want the theme I made, here it is: https://themes.vivaldi.net/themes/2zmvzjZPv6g
 
 ## That's it!
